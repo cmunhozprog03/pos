@@ -39,6 +39,14 @@
           
           <li class="nav-item">
             <a href="" class="nav-link">
+              <i class="nav-icon fas fa-home"></i>
+              <p>
+                Início
+              </p>
+            </a>
+          </li>
+          <li class="nav-item">
+            <a href="" class="nav-link">
               <i class="nav-icon fas fa-th-list"></i>
               <p>
                 Categorias
